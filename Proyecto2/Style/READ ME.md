@@ -1,0 +1,1 @@
+Segunda etapa del proyecto, primeros pasos en CSS. Se adjuntan imágenes del "pedido del cliente". Aún no nos habían enseñado a trabajar con responsive web y media queries, así que por favor, no aprieten ctrl + (quiero ser fiel al proceso y no estar cambiando ahora las cosas, para que se aprecie mi crecimiento y no parezca que hice todo bien cuando aún no sabía casi nada).
