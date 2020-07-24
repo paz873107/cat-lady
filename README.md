@@ -1,1 +1,1 @@
-# cat-lady
+Este es el repositorio en el que voy a subir todos los proyectos que vaya realizando para mejorar mis skills tanto de front como de back end, con propósitos académicos y laborales. También subiré las certificaciones que vaya obteniendo.  
