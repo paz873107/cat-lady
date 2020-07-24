@@ -1,0 +1,105 @@
+header{
+    background-color: lavender;
+}
+
+body {
+    font-family: 'Solway';
+    max-width: 100%;  
+}
+
+img{
+ position: relative;
+
+}
+.col-8{
+  margin-left: 2%;
+  max-width: 1030px;
+}
+
+.col-4{
+  margin-right: 0%;
+  max-width: 650px;
+}
+.col-7{
+  margin-left: 3%;
+  max-width: 700px;
+
+}
+.col-5{
+  margin-left: 5%;
+  margin-right: 0%;
+  max-width: 600px;
+}
+
+.col-3{
+  margin-top: 8%;
+}
+
+.backheader {
+    background-image: url(./TGIF\ logo.png);
+    background-repeat:no-repeat; 
+    background-position: 10% 25%;
+    line-height: 100px;
+    text-align: right;
+    height: 180px;
+    position: relative;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.mail{
+  position: relative;
+  text-align: right;
+  margin-right:-400px;
+  font-size: 35px;
+  top: 30%;
+}
+
+.jumbotron{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    font-family: 'Solway';
+}
+
+table{
+    text-align: center;
+    /* margin-left: 15px;
+    margin-right: 15px; */
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+h2 {
+    margin-top: 45px;
+    margin-bottom: 35px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size:40px;
+    color: #008080;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    line-height: 35%;  
+}
+
+h3{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 30px;
+    color: #008080;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    line-height: 100%;  
+}
+
+p{
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+    line-height: 130%; 
+}
+
+.show{
+     position: relative;
+     margin-left: 10px;
+}

@@ -1,0 +1,47 @@
+body{
+
+
+}
+.cont{
+  margin: 2%;
+  padding: 2%;
+}
+.logo{
+  width:70px;
+  height:70px;
+}
+.name{
+  font-size: 30px;
+  text-decoration: none;
+  color: rgb(49, 49, 49)
+}
+
+.name:hover{
+  text-decoration: none;
+  color: rgb(2, 63, 119);
+}
+
+footer{
+  color:white;
+
+}
+
+.img{
+  width: 430px;
+  height: 430px;
+  margin-left: 20px;
+}
+
+.email{
+  font-size: 20px;
+  color: rgb(41, 41, 41);
+  text-decoration: none;
+}
+
+i{
+  margin-top:20px;
+}
+
+.email:hover{
+  text-decoration: none;
+}
