@@ -1,4 +1,4 @@
-
+// this function grabs the required data from the JSON files and displays them into the hmtl table
 var r = data.results[0].members
 var tabla = "";
 
@@ -14,7 +14,3 @@ console.log(tabla);
 
 
 document.getElementById("house-data").innerHTML = tabla;
-
-for (var a = 0; a < r.lenght; a++) {
-    
-}

@@ -56,6 +56,10 @@ p{
 }
 
 .show{
-     position: relative;
-     margin-left: 10px;
+    position: relative;
+    margin-left: 10px;
+}
+
+img{
+    size: 100vw;
 }
