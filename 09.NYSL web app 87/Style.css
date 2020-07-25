@@ -1,27 +1,27 @@
 body {
-  font-family: 'Architects Daughter', serif !important;
- 
+  font-family: 'Architects Daughter', serif !important;  
 }
 
 
 #background{
-    position: relative;
-    z-index: 1;
+  position: relative;
+  z-index: 1;
+  background-size: 100vw 100vh !important;
 }
 
 #background:before {
-    content: "";
-    position: absolute;
-    z-index: -1;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-image: url(./design1_image1.jpg);
-    background-color: forestgreen;
-    background-repeat: repeat;
-    background-size: 100% !important; 
-    opacity: .4;
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: url(./design1_image1.jpg);
+  background-color: forestgreen;
+  background-repeat: repeat;
+  background-size: 100vw 100vh !important; 
+  opacity: .4;
 }
 
 .div1{
@@ -29,21 +29,20 @@ body {
   text-align: center;
   font-weight: bolder;
   font-size: 28px;
-
 }
 
 .div2{
-    font-family: 'Architects Daughter', serif !important;
-    text-align: center;
-    font-weight: bold;
-    font-size: 22px;
+  font-family: 'Architects Daughter', serif !important;
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
 }
 
 h2{
-    font-family: 'Architects Daughter', serif !important;
-    text-align: center;
-    font-weight: bolder;
-    font-size: 26px;
+  font-family: 'Architects Daughter', serif !important;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 26px;
 }
 
 h3{
@@ -54,17 +53,16 @@ h3{
 }
 
 p{
-    font-family: 'Architects Daughter', serif !important;
-    text-align: center;
-    font-size: 20px;
+  font-family: 'Architects Daughter', serif !important;
+  text-align: center;
+  font-size: 20px;
 }
 
 pre{
   font-family: 'Architects Daughter', serif !important;
   text-align: center;
   font-size: 21px !important;
-  line-height: 170%;
-  
+  line-height: 170%; 
 }
 
 .pre2{
@@ -74,8 +72,7 @@ pre{
   font-weight: bold;
 }
 
-.whatever{
-    
+.whatever{  
   font-size: 20px !important;
   font-weight: bold;
   text-align: center;
@@ -83,18 +80,13 @@ pre{
 
 
 th{
-
   font-size:20px;
   align-content: center;
   text-align: center;
- 
 }
+
 td{
-  
- 
   font-size:20px;
   align-content: center;
   text-align: center;
-  
-  
 }
