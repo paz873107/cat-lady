@@ -5,7 +5,6 @@ body {
 
 #background{
   z-index: 1;
-  background-size: 100vw 100vh !important;
 }
 
 #background:before {
@@ -26,7 +25,6 @@ body {
 #background1{
   position: relative;
   z-index: 1;
-  background-size: 100vw 100vh !important;
 }
 
 #background1:before {
