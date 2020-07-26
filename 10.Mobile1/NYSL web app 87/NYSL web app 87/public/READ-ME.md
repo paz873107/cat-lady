@@ -1,0 +1,3 @@
+The last requirement from NYSL is to make a native look-like app, for the parents and children to have it in their cellphones without the need of install anything. It will has to be deploy with Firebase and has an icon of its own. jQuerie would be totally useful at the time of obtain the look of a real Android/iOS app. Mock ups are uploaded allong with HTML,CSS and JS files.
+
+El último pedido de la NYSL es hacer una app de aspecto nativo, para que los padres y los chicos tengan en sus celulares sin la necesidad de instalar nada. Tendrá que ser desarrollada en Firebase y contar con ícono propio. jQuerie podría ser totalmente útil a la hora de obtener la apariencia de una app real de Android/iOS. Se adjuntan las maquetas junto al HTML, CSS y JS.
